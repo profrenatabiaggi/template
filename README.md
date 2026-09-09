@@ -45,9 +45,6 @@ _Etapas do Pré-processamento no Pipeline:_
 
 Utilizamos [insira as ferramentas ou métodos de modelagem usados, por exemplo, "algoritmos de machine learning como XGBoost e RandomForest"] para construir nosso modelo. As métricas de avaliação incluem [insira as métricas usadas, por exemplo, "precisão, recall e a área sob a curva ROC"].
 
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaTerceiraImagem])
-
-[Aqui, explique o que a imagem acima mostra e como ela é relevante para a avaliação do seu modelo.]
 
 ## 📈 Insights e Conclusões
 
