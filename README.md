@@ -28,9 +28,6 @@ Este projeto visa [insira o objetivo principal do projeto aqui, por exemplo, "an
 
 [Descreva a situação atual e o que seu projeto propõe a melhorar. Por exemplo, "Nosso modelo atual enfrenta desafios em... A análise visa otimizar..."]
 
-![Inserir imagem](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/assets/[IDdaSegundaImagem])
-
-[Aqui, você pode descrever o que a imagem acima representa e como ela se relaciona com o seu projeto.]
 
 ## 🛠 Pré-processamento 
 O pré-processamento de dados é crucial em projetos de machine learning. Utilizamos [insira as ferramentas ou métodos usados, por exemplo, "Pipeline do Scikit-learn"] para garantir eficácia e reprodutibilidade. 
